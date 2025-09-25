@@ -23,6 +23,3 @@ These projects are also featured in our official blog post:
 - **Libraries**: Standard C libraries (`stdio.h`, `stdlib.h`, `string.h`, `math.h`)  
 - **Approach**: Simulation-based and menu-driven design  
 - **Concepts Covered**: I/O handling, data structures, process management, GUI events  
-
-
-✨ Perfect for final-year students who want to learn OS concepts through **practical coding** rather than just theory.
